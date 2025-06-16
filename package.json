@@ -7,5 +7,9 @@
     "test": "exit 0"
   },
   "author": "cibarraleonel",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@cibarraleonel:registry": "https://npm.pkg.github.com"
+  }
 }
+
